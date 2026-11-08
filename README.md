@@ -1,2 +1,5 @@
 # pipreola
-Iris colour records for the Barred Fruiteater Pipreola arcuata (Pérez, Chaparro-Herrera &amp; Cuervo, Ibis)
+Supporting Information
+Pérez, K.V., Chaparro-Herrera, S. & Cuervo, A.M. Iris colour records of the Barred Fruiteater Pipreola arcuata from photographs and museum specimen labels.
+
+Table S1. Iris colour records of the Barred Fruiteater Pipreola arcuata from photographs and museum specimen labels. Each row is one individual: 1,414 photographed birds (3,360 images from the Macaulay Library, iNaturalist and Flickr) and 112 specimens in eight collections. Columns give the record type (photograph or specimen), the record identifier (catalogue number, or media identifier with the identifiers of other images of the same bird), source, photographer or collector, date, country, department or state, locality, latitude, longitude, sex, age class, population, iris colour as written on the label (specimens only) and the iris colour category assigned (dark, yellow, red or orange). Images of the same bird taken at one locality on one date by one contributor were treated as a single record. Sex and age of photographed birds were assigned from plumage, and those of specimens are taken from the label.
