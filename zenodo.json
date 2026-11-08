@@ -1,0 +1,13 @@
+{
+  "upload_type": "dataset",
+  "title": "Iris colour records of the Barred Fruiteater Pipreola arcuata from photographs and museum specimen labels",
+  "description": "Iris colour of 1,414 photographed birds (3,360 images from the Macaulay Library, iNaturalist and Flickr) and 112 museum specimens in eight collections. Supporting data for Pérez, Chaparro-Herrera & Cuervo, Ibis.",
+  "creators": [
+    {"name": "Pérez, K. Vanessa", "affiliation": "Instituto de Ciencias Naturales, Universidad Nacional de Colombia, Facultad de Ciencias, Bogotá, Colombia"},
+    {"name": "Chaparro-Herrera, Sergio", "affiliation": "Fundación Atlapetes, Antioquia, Medellín, Colombia"},
+    {"name": "Cuervo, Andrés M.", "affiliation": "Instituto de Ciencias Naturales, Universidad Nacional de Colombia, Facultad de Ciencias, Bogotá, Colombia", "orcid": "0000-0002-4949-0288"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["Pipreola arcuata", "iris colour", "museum specimens", "citizen science", "Andes"],
+  "access_right": "open"
+}
